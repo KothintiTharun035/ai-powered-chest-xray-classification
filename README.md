@@ -4,7 +4,7 @@ An AI-powered educational application that classifies chest X-ray images into **
 
 The project combines deep learning, explainable AI (XAI), and generative AI in an interactive Streamlit web application.
 
-> 
+> **Disclaimer:** This project is intended for educational and research purposes only. It is not a clinically validated diagnostic system and must not be used to diagnose or rule out pneumonia. Medical images must be interpreted by qualified healthcare professionals.
 
 ## ✨ Features
 
