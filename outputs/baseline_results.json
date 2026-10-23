@@ -1,0 +1,41 @@
+{
+  "model": "Baseline CNN",
+  "test_accuracy": 0.7564102564102564,
+  "classification_report": {
+    "NORMAL": {
+      "precision": 0.75625,
+      "recall": 0.5170940170940171,
+      "f1-score": 0.6142131979695431,
+      "support": 234.0
+    },
+    "PNEUMONIA": {
+      "precision": 0.7564655172413793,
+      "recall": 0.9,
+      "f1-score": 0.8220140515222483,
+      "support": 390.0
+    },
+    "accuracy": 0.7564102564102564,
+    "macro avg": {
+      "precision": 0.7563577586206897,
+      "recall": 0.7085470085470086,
+      "f1-score": 0.7181136247458957,
+      "support": 624.0
+    },
+    "weighted avg": {
+      "precision": 0.7563846982758622,
+      "recall": 0.7564102564102564,
+      "f1-score": 0.7440887314399839,
+      "support": 624.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      121,
+      113
+    ],
+    [
+      39,
+      351
+    ]
+  ]
+}
