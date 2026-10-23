@@ -219,12 +219,7 @@ A qualified healthcare professional must interpret medical images and make clini
 
 ## 🔮 Future Improvements
 
-- Validate performance on independent datasets.
-- Add automated tests and improved error handling.
-- Evaluate calibration and classification errors.
-- Improve handling of class imbalance.
-- Add more detailed model evaluation visualizations.
-- Improve deployment monitoring and application reliability.
+- 
 
 ## 👨‍💻 Author
 
